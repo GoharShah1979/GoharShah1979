@@ -1,4 +1,4 @@
-- 👋 Hi, I’m GoharShah1979
+- 👋 Hi, I’m Gohar Shah
 - 👀 I’m interested in software designing  
 - 🌱 I’m currently learning how to start from scratch
 - 💞️ I’m looking to collaborate on SQL database
